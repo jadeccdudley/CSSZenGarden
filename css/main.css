@@ -261,3 +261,9 @@ textarea {
   }
 }
 
+
+  
+.para-demo {
+  display:flex;
+  gap:20px
+}
